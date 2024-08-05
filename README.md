@@ -1,6 +1,4 @@
-# Hi there, I'm Shannee Ahirwar! 👋
-
-![Banner Image](https://example.com/banner-image-url)
+![github-header-image](https://github.com/user-attachments/assets/03518f8f-472a-4940-b0a5-8642fd9d4373)
 
 Welcome to my GitHub profile! I'm a software engineer based in Indore, India, with a passion for backend development, clean code, and continuous learning.
 
