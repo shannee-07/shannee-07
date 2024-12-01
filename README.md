@@ -49,9 +49,7 @@ A machine learning model to detect 8 different types of emotions in text.
 ## 🌱 What I'm Learning
 
 I'm currently diving deeper into:
-- Advanced Flutter techniques
-- Data modeling with Apache Solr
-
+- Java Full Stack
 ---
 
 ## 🏆 Achievements
